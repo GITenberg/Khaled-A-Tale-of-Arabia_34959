@@ -1,0 +1,36 @@
+_repo: Khaled-A-Tale-of-Arabia_34959
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crawford, F. Marion (Francis Marion)
+    alias: Crawford, Francis Marion
+    birthdate: 1854
+    deathdate: 1909
+    gutenberg_agent_id: '1316'
+    url: http://www.gutenberg.org/2009/agents/1316
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Marion_Crawford
+description: "Khaled: A Tale of Arabia is a fantasy novel by F. Marion Crawford. It\
+  \ was first published in hardcover by Macmillan and Co. in 1891; its first paperback\
+  \ edition was issued by Ballantine Books as the thirty-ninth volume of the Ballantine\
+  \ Adult Fantasy series in December, 1971. The Ballantine edition includes an introduction\
+  \ by Lin Carter.\nThe novel is an oriental romance written in the style of the Arabian\
+  \ Nights.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2011-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34959'
+  wikidata: Q16386542
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Arabian Peninsula -- Fiction'
+title: Khaled, A Tale of Arabia
+url: http://www.gutenberg.org/ebooks/34959
+wikipedia:
+- https://en.wikipedia.org/wiki/Khaled:_A_Tale_of_Arabia
